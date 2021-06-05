@@ -1,4 +1,4 @@
-package ir.cacolatorpro.ghafari.reshad
+package ir.cacolator.ghafari.reshad
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

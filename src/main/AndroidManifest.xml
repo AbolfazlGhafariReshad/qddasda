@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="ir.cacolatorpro.ghafari.reshad">
+    package="ir.cacolator.ghafari.reshad">
 
     <application
         android:allowBackup="true"
@@ -9,16 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Calculator">
-        <activity android:name="ir.cacolatorpro.ghafari.reshad.Page3Activity"></activity>
-        <activity android:name="ir.cacolatorpro.ghafari.reshad.ValidationActivity" />
-        <activity android:name="ir.cacolatorpro.ghafari.reshad.StartActivity">
+        <activity android:name="ir.cacolator.ghafari.reshad.Page3Activity"></activity>
+        <activity android:name="ir.cacolator.ghafari.reshad.ValidationActivity" />
+        <activity android:name="ir.cacolator.ghafari.reshad.StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="ir.cacolatorpro.ghafari.reshad.MainActivity">
+        <activity android:name="ir.cacolator.ghafari.reshad.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

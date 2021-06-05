@@ -1,4 +1,4 @@
-package ir.cacolatorpro.ghafari.reshad
+package ir.cacolator.ghafari.reshad
 
 import org.junit.Test
 
